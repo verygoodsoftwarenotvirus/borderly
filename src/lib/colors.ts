@@ -1,0 +1,30 @@
+export const UNDECIDED_COLOR = '#9E9E9E';
+
+export const claimantColors: Record<string, string> = {
+	china: '#E53935',
+	taiwan: '#283593',
+	india: '#FF9800',
+	pakistan: '#4CAF50',
+	russia: '#607D8B',
+	ukraine: '#FDD835',
+	morocco: '#C62828',
+	sahrawi: '#2E7D32',
+	israel: '#1976D2',
+	syria: '#B71C1C',
+	lebanon: '#D32F2F',
+	vietnam: '#FFEB3B',
+	philippines: '#2196F3',
+	malaysia: '#0D47A1',
+	brunei: '#F9A825',
+	uk: '#1A237E',
+	argentina: '#29B6F6',
+	cyprus: '#FFB300',
+	turkey: '#F44336',
+	georgia: '#880E4F',
+	abkhazia: '#00897B',
+	south_ossetia: '#00897B',
+	moldova: '#3F51B5',
+	transnistria: '#795548',
+	japan: '#E91E63',
+	palestine: '#2E7D32'
+};
